@@ -3,8 +3,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
     <title>
-      Programming is Collaboration &middot; A Software Book by Simon Højberg
+      Programming Is Collaboration &middot; A Software Book by Simon Højberg
     </title>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
@@ -18,7 +19,7 @@
         width="263"
         height="244" />
 
-      <h1>Programming is Collaboration</h1>
+      <h1>Programming Is Collaboration</h1>
 
       <p id="description">
         On the role and importance of <strong>collaboration</strong> in
@@ -32,6 +33,25 @@
       <p id="author">
         A Software Book by <a target="_blank" href="https://twitter.com/shojberg">Simon Højberg</a>
       </p>
+
+      <section id="subscribe">
+        <p>
+          <strong>Subscribe</strong> to the newsletter and get updates on the
+          progress of the book, previews, and essays on the topic of
+          collaboration in software.
+        </p>
+        <form
+          action="https://buttondown.email/api/emails/embed-subscribe/hojberg"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.email/hojberg', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <input type="email" name="email" id="bd-email" placeholder="email@example.com">
+          <input type="hidden" value="1" name="embed">
+          <button type="submit">Subscribe</button>
+        </form>
+      </section>
     </main>
   </body>
 </html>

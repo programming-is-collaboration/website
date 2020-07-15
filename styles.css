@@ -1,9 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
-  padding: 0;
+  padding: 32px;
   font-family: "Playfair Display", serif;
   font-size: 18px;
-  background: #a9aab1;
   background: #fff;
   color: #333;
 }
@@ -36,8 +39,7 @@ p {
 
 main {
   margin: auto;
-  padding: 32px 0;
-  width: 441px;
+  width: 442px;
   text-align: center;
 }
 
@@ -51,10 +53,36 @@ main {
   font-size: 22px;
   text-align: justify;
   border-top: 3px solid #eee;
-  border-bottom: 3px solid #eee;
 }
 
 #author {
-  margin-top: 48px;
   font-size: 16px;
+}
+
+#subscribe {
+  margin-top: 100px;
+  text-align: justify;
+  font-size: 14px;
+}
+
+form {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+input {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 6px;
+  width: 335px;
+}
+
+button {
+  background: #0d7cff;
+  color: #fff;
+  padding: 6px 20px;
+  border: 1px solid #0d7cff;
+  border-radius: 4px;
+  width: 100px;
 }
