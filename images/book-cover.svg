@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="436px" height="594px" viewBox="0 0 436 594" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="427.05" height="585" rx="2"></rect>
+        <filter x="-1.9%" y="-0.7%" width="103.7%" height="102.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="8.52651283e-14" y="0" width="427.05" height="585" rx="2"></rect>
+        <filter x="-0.7%" y="-0.5%" width="101.4%" height="101.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.28400896 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="43.3959187%" x2="100%" y2="43.3959171%" id="linearGradient-5">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="52.0541958%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="43.3959187%" x2="100%" y2="43.3959171%" id="linearGradient-6">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="52.0541958%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Marketing-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-71.000000, -60.000000)">
+            <g id="Group-8" transform="translate(75.000000, 61.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-7" transform="translate(0.000000, 101.400000)">
+                    <rect id="Rectangle" fill="#FFA77A" x="0" y="303.55" width="427.05" height="180.05"></rect>
+                    <text id="Programming-Is-Colla" font-family="PlayfairDisplay-Regular, Playfair Display" font-size="26" font-weight="normal" fill="#333333">
+                        <tspan x="119.366" y="393.95">Programming Is</tspan>
+                        <tspan x="133.679" y="428.95">Collaboration</tspan>
+                    </text>
+                    <text id="Simon-Højberg" font-family="PlayfairDisplay-Regular, Playfair Display" font-size="10.4" font-weight="normal" fill="#333333">
+                        <tspan x="180.7" y="358.1">Simon Højberg</tspan>
+                    </text>
+                    <g id="Group-5" transform="translate(130.650000, 0.000000)">
+                        <g id="Group-4" transform="translate(9.100000, 9.100000)">
+                            <g id="Group" transform="translate(7.150000, 0.000000)">
+                                <rect id="Rectangle" stroke="#373737" stroke-width="1.3" fill="#FFFFFF" x="20.8" y="0.65" width="95.55" height="131.95" rx="3.9"></rect>
+                                <rect id="Rectangle" stroke="#373737" stroke-width="1.3" transform="translate(52.975000, 55.575000) rotate(-270.000000) translate(-52.975000, -55.575000) " x="5.2" y="3.25" width="95.55" height="104.65" rx="3.9"></rect>
+                                <rect id="Rectangle" stroke="#373737" stroke-width="1.3" transform="translate(85.475000, 66.625000) rotate(-270.000000) translate(-85.475000, -66.625000) " x="37.7" y="14.3" width="95.55" height="104.65" rx="3.9"></rect>
+                                <rect id="Rectangle" fill="#FFFFFF" x="1.3" y="8.45" width="26.65" height="94.25" rx="2.6"></rect>
+                                <rect id="Rectangle" fill="#FFFFFF" x="110.5" y="19.5" width="26.65" height="94.25" rx="2.6"></rect>
+                            </g>
+                            <path d="M109.2,18.2 C111.353911,18.2 113.1,19.9460895 113.1,22.1 L113.1,100.1 C113.1,102.253911 111.353911,104 109.2,104 L43.55,104 C42.3953068,104 41.3578189,103.498184 40.6437229,102.700739 L40.3,102.7 L40.2995159,102.255839 C39.8891112,101.638285 39.65,100.897066 39.65,100.1 L39.65,22.1 C39.65,19.9460895 41.3960895,18.2 43.55,18.2 L109.2,18.2 Z" id="Combined-Shape" fill="#373737"></path>
+                            <g id="Group-3" transform="translate(65.000000, 129.350000)" fill="#FFFFFF">
+                                <polyline id="Path-8" stroke="#373737" stroke-width="1.3" points="1.95 1.3 11.5087645 10.8587645 21.067529 1.3"></polyline>
+                                <rect id="Rectangle" x="0" y="0" width="22.75" height="2.6"></rect>
+                            </g>
+                            <g id="Group-3" transform="translate(147.200000, 35.300000) rotate(-90.000000) translate(-147.200000, -35.300000) translate(135.700000, 29.800000)" fill="#FFFFFF">
+                                <polyline id="Path-8" stroke="#373737" stroke-width="1.3" points="1.95 1.3 11.5087645 10.8587645 21.067529 1.3"></polyline>
+                                <rect id="Rectangle" x="0" y="0" width="22.75" height="2.6"></rect>
+                            </g>
+                            <g id="Group-3" transform="translate(5.550000, 82.350000) rotate(-270.000000) translate(-5.550000, -82.350000) translate(-5.950000, 76.850000)" fill="#FFFFFF">
+                                <polyline id="Path-8" stroke="#373737" stroke-width="1.3" points="1.95 1.3 11.5087645 10.8587645 21.067529 1.3"></polyline>
+                                <rect id="Rectangle" x="0" y="0" width="22.75" height="2.6"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-2" transform="translate(56.550000, 36.400000)">
+                            <rect id="Rectangle" fill="#F4E199" x="0" y="0" width="6.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#C0E1EA" x="8.45" y="0" width="13" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#F4E199" x="33.15" y="0" width="3.25" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#FFA77A" x="9.75" y="5.85" width="19.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#F4E199" x="14.95" y="11.7" width="8.45" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#BADEE8" x="8.45" y="11.7" width="3.25" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#BADEE8" x="0" y="5.85" width="6.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#FFB350" x="26" y="11.7" width="13" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#F4E199" x="0" y="17.55" width="9.75" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#FFA77A" x="0" y="23.4" width="6.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#FFB350" x="28.6" y="35.1" width="6.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#FFB350" x="11.7" y="17.55" width="6.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#C0E1EA" x="8.45" y="23.4" width="13" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#F4E199" x="21.45" y="29.25" width="26" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#FFA77A" x="6.5" y="29.25" width="13" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#C0E1EA" x="6.5" y="35.1" width="19.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#F4E199" x="0" y="40.95" width="19.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#FFB350" x="3.9" y="46.8" width="26" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#FFA77A" x="41.6" y="46.8" width="3.25" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#C0E1EA" x="6.5" y="52.65" width="19.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#F4E199" x="0" y="58.5" width="13" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#FFA77A" x="0" y="64.35" width="6.5" height="2.6" rx="1.3"></rect>
+                            <rect id="Rectangle" fill="#C0E1EA" x="8.45" y="64.35" width="12.35" height="2.6" rx="1.3"></rect>
+                        </g>
+                        <path d="M76.05,100.75 C76.7679702,100.75 77.35,101.33203 77.35,102.05 C77.35,102.76797 76.7679702,103.35 76.05,103.35 L75.4,103.35 C74.6820298,103.35 74.1,102.76797 74.1,102.05 C74.1,101.33203 74.6820298,100.75 75.4,100.75 L76.05,100.75 Z M85.8,100.75 C86.5179702,100.75 87.1,101.33203 87.1,102.05 C87.1,102.76797 86.5179702,103.35 85.8,103.35 L81.9,103.35 C81.1820298,103.35 80.6,102.76797 80.6,102.05 C80.6,101.33203 81.1820298,100.75 81.9,100.75 L85.8,100.75 Z M77.35,94.9 C78.0679702,94.9 78.65,95.4820298 78.65,96.2 C78.65,96.9179702 78.0679702,97.5 77.35,97.5 L66.95,97.5 C66.2320298,97.5 65.65,96.9179702 65.65,96.2 C65.65,95.4820298 66.2320298,94.9 66.95,94.9 L77.35,94.9 Z M90.35,89.05 C91.0679702,89.05 91.65,89.6320298 91.65,90.35 C91.65,91.0679702 91.0679702,91.65 90.35,91.65 L73.45,91.65 C72.7320298,91.65 72.15,91.0679702 72.15,90.35 C72.15,89.6320298 72.7320298,89.05 73.45,89.05 L90.35,89.05 Z M94.25,83.2 C94.9679702,83.2 95.55,83.7820298 95.55,84.5 C95.55,85.2179702 94.9679702,85.8 94.25,85.8 L70.85,85.8 C70.1320298,85.8 69.55,85.2179702 69.55,84.5 C69.55,83.7820298 70.1320298,83.2 70.85,83.2 L94.25,83.2 Z M83.85,77.35 C84.5679702,77.35 85.15,77.9320298 85.15,78.65 C85.15,79.3679702 84.5679702,79.95 83.85,79.95 L66.95,79.95 C66.2320298,79.95 65.65,79.3679702 65.65,78.65 C65.65,77.9320298 66.2320298,77.35 66.95,77.35 L83.85,77.35 Z M99.45,71.5 C100.16797,71.5 100.75,72.0820298 100.75,72.8 C100.75,73.5179702 100.16797,74.1 99.45,74.1 L95.55,74.1 C94.8320298,74.1 94.25,73.5179702 94.25,72.8 C94.25,72.0820298 94.8320298,71.5 95.55,71.5 L99.45,71.5 Z M81.25,71.5 C81.9679702,71.5 82.55,72.0820298 82.55,72.8 C82.55,73.5179702 81.9679702,74.1 81.25,74.1 L77.35,74.1 C76.6320298,74.1 76.05,73.5179702 76.05,72.8 C76.05,72.0820298 76.6320298,71.5 77.35,71.5 L81.25,71.5 Z M111.8,65.65 C112.51797,65.65 113.1,66.2320298 113.1,66.95 C113.1,67.6679702 112.51797,68.25 111.8,68.25 L108.55,68.25 C107.83203,68.25 107.25,67.6679702 107.25,66.95 C107.25,66.2320298 107.83203,65.65 108.55,65.65 L111.8,65.65 Z M83.85,65.65 C84.5679702,65.65 85.15,66.2320298 85.15,66.95 C85.15,67.6679702 84.5679702,68.25 83.85,68.25 L73.45,68.25 C72.7320298,68.25 72.15,67.6679702 72.15,66.95 C72.15,66.2320298 72.7320298,65.65 73.45,65.65 L83.85,65.65 Z M66.95,59.8 C67.6679702,59.8 68.25,60.3820298 68.25,61.1 C68.25,61.8179702 67.6679702,62.4 66.95,62.4 L66.3,62.4 C65.5820298,62.4 65,61.8179702 65,61.1 C65,60.3820298 65.5820298,59.8 66.3,59.8 L66.95,59.8 Z M85.8,59.8 C86.5179702,59.8 87.1,60.3820298 87.1,61.1 C87.1,61.8179702 86.5179702,62.4 85.8,62.4 L75.4,62.4 C74.6820298,62.4 74.1,61.8179702 74.1,61.1 C74.1,60.3820298 74.6820298,59.8 75.4,59.8 L85.8,59.8 Z M73.45,53.95 C74.1679702,53.95 74.75,54.5320298 74.75,55.25 C74.75,55.9679702 74.1679702,56.55 73.45,56.55 L72.8,56.55 C72.0820298,56.55 71.5,55.9679702 71.5,55.25 C71.5,54.5320298 72.0820298,53.95 72.8,53.95 L73.45,53.95 Z M82.55,53.95 C83.2679702,53.95 83.85,54.5320298 83.85,55.25 C83.85,55.9679702 83.2679702,56.55 82.55,56.55 L78.65,56.55 C77.9320298,56.55 77.35,55.9679702 77.35,55.25 C77.35,54.5320298 77.9320298,53.95 78.65,53.95 L82.55,53.95 Z M87.75,48.1 C88.4679702,48.1 89.05,48.6820298 89.05,49.4 C89.05,50.1179702 88.4679702,50.7 87.75,50.7 L77.35,50.7 C76.6320298,50.7 76.05,50.1179702 76.05,49.4 C76.05,48.6820298 76.6320298,48.1 77.35,48.1 L87.75,48.1 Z M103.35,48.1 C104.06797,48.1 104.65,48.6820298 104.65,49.4 C104.65,50.1179702 104.06797,50.7 103.35,50.7 L92.95,50.7 C92.2320298,50.7 91.65,50.1179702 91.65,49.4 C91.65,48.6820298 92.2320298,48.1 92.95,48.1 L103.35,48.1 Z M93.6,42.25 C94.3179702,42.25 94.9,42.8320298 94.9,43.55 C94.9,44.2679702 94.3179702,44.85 93.6,44.85 L76.7,44.85 C75.9820298,44.85 75.4,44.2679702 75.4,43.55 C75.4,42.8320298 75.9820298,42.25 76.7,42.25 L93.6,42.25 Z M61.75,36.4 C62.4679702,36.4 63.05,36.9820298 63.05,37.7 C63.05,38.4179702 62.4679702,39 61.75,39 L61.1,39 C60.3820298,39 59.8,38.4179702 59.8,37.7 C59.8,36.9820298 60.3820298,36.4 61.1,36.4 L61.75,36.4 Z M85.8,36.4 C86.5179702,36.4 87.1,36.9820298 87.1,37.7 C87.1,38.4179702 86.5179702,39 85.8,39 L75.4,39 C74.6820298,39 74.1,38.4179702 74.1,37.7 C74.1,36.9820298 74.6820298,36.4 75.4,36.4 L85.8,36.4 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        <rect id="Rectangle" fill="#373737" x="36.4" y="17.55" width="1.3" height="95.55"></rect>
+                        <rect id="Rectangle" fill="#373737" x="131.95" y="27.95" width="1.3" height="95.55"></rect>
+                    </g>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <rect stroke-opacity="0.154447115" stroke="#333333" stroke-width="1" x="-0.5" y="-0.5" width="428.05" height="586" rx="2"></rect>
+                </g>
+                <rect id="Rectangle" fill="url(#linearGradient-5)" opacity="0.0490373884" x="0" y="0" width="14" height="585"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-6)" opacity="0.0490373884" x="14" y="1" width="20" height="585"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

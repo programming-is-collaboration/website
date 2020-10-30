@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       Programming Is Collaboration &middot; A Software Book by Simon Højberg
     </title>
@@ -13,32 +13,37 @@
 
   <body>
     <main>
-      <img
-        id="logo"
-        src="images/programming-is-collaboration-logo.svg"
-        width="263"
-        height="244" />
+      <header>
+        <img
+          id="logo"
+          src="images/programming-is-collaboration-logo.svg"
+          width="263"
+          height="244" />
 
-      <h1>Programming Is Collaboration</h1>
+        <h1>Programming Is Collaboration</h1>
 
-      <p id="description">
-        On the role and importance of <strong>collaboration</strong> in
-        <strong>software</strong> and what it means to <strong>work with
-        people</strong> &mdash; in pair programming, at the whiteboard, in chat
-        and video, in code reviews, in planning, and in the very
-        <strong>code</strong> <span id="sizing">we design, write, read, debug, and
-          maintain</span>
-      </p>
+        <p id="description">
+          On the role and importance of <strong>collaboration</strong> in
+          <strong>software</strong> and what it means to <strong>work with
+          people</strong> &mdash; in pair programming, at the whiteboard, in chat
+          and video, in code reviews, in planning, and in the very
+          <strong>code</strong> <span id="sizing">we design, write, read, debug, and
+            maintain</span>
+        </p>
 
-      <p id="author">
-        A Software Book by <a target="_blank" href="https://hojberg.xyz">Simon Højberg</a>
-      </p>
+        <p id="author">
+          A Software Book by <a target="_blank" href="https://hojberg.xyz">Simon Højberg</a>
+        </p>
+      </header>
 
-      <section id="subscribe">
+      <hr class="divider" />
+
+      <article id="subscribe">
+
         <p>
-          <strong>Subscribe</strong> to the newsletter and get updates on the
+          <strong>Subscribe</strong> to get updates on the
           progress of the book, previews, and essays on the topic of
-          collaboration in software.
+          software collaboration.
         </p>
         <form
           action="https://buttondown.email/api/emails/embed-subscribe/hojberg"
@@ -51,7 +56,79 @@
           <input type="hidden" value="1" name="embed">
           <button type="submit">Subscribe</button>
         </form>
-      </section>
+      </article>
+
+      <article id="toc">
+        <p>
+          <strong>Programming Is Collaboration</strong> is a book that comes out of 15+ years of
+          experiences working on teams of all sizes. It explores collaboration
+          and what it means for programmers and programming as a profession.
+        </p>
+     
+        <p>
+          The book is sectioned into 25 small to medium sized
+          essays or fragments:
+        </p>
+
+        <section class="part">
+          <h3>Connect</h3>
+          <ul>
+            <li>Empathy, Humility, and Vulnerability</li>
+            <li>Written Communication</li>
+            <li>Documentation</li>
+            <li>Code Is Communication</li>
+            <li>Setup Colleagues for Success</li>
+          </ul>
+        </section>
+
+        <section class="part">
+          <h3>Design</h3>
+          <ul>
+            <li>Collaborative Design</li>
+            <li>Architectural Reasoning</li>
+            <li>Domain Reasoning</li>
+            <li>Type Reasoning</li>
+            <li>Functional Architecture: Core &amp; Shell</li>
+          </ul>
+        </section>
+
+        <section class="part">
+          <h3>Code</h3>
+          <ul>
+            <li>Compositional Reasoning</li>
+            <li>Compositionality</li>
+            <li>Extension by Composition</li>
+            <li>Optionality and Timid Code</li>
+            <li>Common categorical interfaces</li>
+          </ul>
+        </section>
+
+        <section class="part">
+          <h3>Review</h3>
+          <ul>
+            <li>Giving Feedback</li>
+            <li>Code Review is a conversation</li>
+            <li>Mentorship &amp; Vulnerability</li>
+            <li>Learning from others</li>
+            <li>Self Review and Reflection</li>
+          </ul>
+        </section>
+
+        <section class="part">
+          <h3>Maintain</h3>
+          <ul>
+            <li>Working with legacy code</li>
+            <li>Plan out Refactors</li>
+            <li>Expect Failures and Imperfections</li>
+            <li>Keep a cool head during outages</li>
+            <li>Testing</li>
+          </ul>
+        </section>
+      </article>
+
+      <footer>
+        &copy; 2019— 2020 Simon Højberg
+      </footer>
     </main>
   </body>
 </html>
