@@ -161,6 +161,9 @@ footer {
   font-size: 0.8rem;
   color: #888;
   margin-bottom: 2rem;
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
 }
 
 /* Content */
